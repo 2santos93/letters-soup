@@ -12,7 +12,7 @@ If you like change the app data, make replace into ```data.json```
 
 # Español
 
-Esto es una prueba que realice en una entrevista.
+Esto es una prueba de una entrevista.
 
 Recuerda ejecutar ```npm install``` para instalar todas las dependencias necesarias.
 
